@@ -1,4 +1,5 @@
-or create a new repository on the command line
+To create a new repository on the command line, please follow the below instructions.
+
 echo "# learning" >> README.md
 git init
 git add README.md
